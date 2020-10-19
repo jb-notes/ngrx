@@ -1,5 +1,5 @@
 Building an enterprise-grade Angular project structure
-[sample repo](https://github.com/Gbuomprisco/cryptofolio)
+[A sample repo](https://github.com/Gbuomprisco/cryptofolio)
 
 ## Angular Entities
 - modules
